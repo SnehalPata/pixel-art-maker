@@ -1,0 +1,45 @@
+/*.parentDiv{*/
+    /*border-style: groove;*/
+    /*width : 500px;*/
+    /*height : 500px;*/
+    /*display : flex;*/
+    /*flex-direction: row;*/
+    /*flex-wrap:  wrap;*/
+/*}*/
+
+/*.row{*/
+    /*border-style: groove;*/
+    /*!*width : 30px;*!*/
+    /*!*height : 30px;*!*/
+    /*display : flex;*/
+    /*flex-direction: row;*/
+    /*flex-wrap:  wrap;*/
+/*}*/
+
+/*.column{*/
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    /*width: 14px;*/
+    /*height: 14px;*/
+    /*border: 2px solid black;*/
+/*}*/
+
+
+
+.column {
+    width: 15px;
+    height: 15px;
+
+
+
+    background-color: white;
+    border: 1px solid gray;
+
+}
+
+.row {
+    display: flex;
+
+
+
+}

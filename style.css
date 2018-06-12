@@ -29,17 +29,33 @@
 .column {
     width: 15px;
     height: 15px;
-
-
-
     background-color: white;
     border: 1px solid gray;
 
 }
+.colorDiv{
+    display: flex;
+    /*flex-direction: column;*/
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    border-radius: 50%;
+    border: 1px solid gray;
+}
 
 .row {
     display: flex;
+    width:340px;
+    //height: 400px;
+}
+.parentDiv{
+    display: flex;
 
-
+}
+.currentColorDiv{
+    width: 40px;
+    height: 15px;
+    background-color: white;
+    border: 1px solid gray;
 
 }
